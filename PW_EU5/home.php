@@ -76,7 +76,7 @@ require 'config/config.php';
       $imagen="imagenes/producto/$id/1.jpg";
       
       ?>
-          <img src="<?php echo $imagen; ?>" width="300px" heigth="400px">
+          <img src="<?php echo $imagen;?>" width="300px" heigth="400px">
           <div class="card-body">
 
             <h4> Nombre:
